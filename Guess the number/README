@@ -1,0 +1,2 @@
+ This program will generate a random number between a specified range and ask the user to guess it.
+It will  provide feedback on whether the guess is too high or too low until the user guesses the correct number.
