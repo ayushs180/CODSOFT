@@ -1,0 +1,10 @@
+ In this project we had to develop a  simple console-based Tic-Tac-Toe game that
+allows two players to play against each other .
+Tic-Tac-Toe is typically played on a 3x3 grid, where two players take turns marking spaces with their symbols (usually 'X' and 'O') until one player wins by forming a line of three symbols horizontally, vertically, or diagonally, or the game ends in a draw.
+
+We used the following functions while developing it  :
+ >Function to display the Tic-Tac-Toe board
+
+>Function to check if the game is over (win or draw)
+
+ >Function to make a move
