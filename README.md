@@ -1,7 +1,7 @@
 # CODSOFT
 This respository contains my projects for the intership with CODSOFT ( between 20 Aug'23 to 20 Sept'23)
 
-It contains 3 projects --->
+It contains 4 projects --->
  1. Guess the number :  Create a program that generates a random number and asks the
                        user to guess it. Provide feedback on whether the guess is too
                        high or too low until the user guesses the correct numbe
@@ -33,3 +33,11 @@ It contains 3 projects --->
                      players.
                      Display Result: Show the result of the game (win, draw, or ongoing).
                      Play Again: Ask if the players want to play another game
+
+4. To-do-list manager : Build a simple console-based to-do list
+                       manager that allows users to add, view, and delete tasks
+                      // Function to display the menu
+                     // Function to add a task
+                     // Function to view tasks
+                     // Function to delete a task
+   
